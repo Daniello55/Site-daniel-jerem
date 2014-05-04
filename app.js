@@ -1,4 +1,4 @@
-var id = 'Jerem';
+var id = 'Jeremy';
 var mp = 'Daniel';
 
 var id_test=prompt("Entrez votre identifiant");
